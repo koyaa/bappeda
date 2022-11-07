@@ -1,12 +1,21 @@
 ---
 layout: default
-youtubeId: putYourIDHere
+youtubeId: bC-3UnHHM24
 ---
 
 ![Banner](assets/biscuit.png)
-{% include youtubePlayer.html id=page.youtubeId %}
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+## Dokumen perencanaan Perangkat Daerah
+**[Dokumen 1](https://form.gle)**
+**[Dokumen 2](https://form.gle)**
+**[Dokumen 3](https://form.gle)**
+
+## Pelaporan Dokumen Perencanaan
+### Pelaporan Monev Trivulan III
+* Format laporan dapat diunduh melalui link berikut ini, `https://google.com.`
+* Tata cara pengisian dapat dilihat melalui videio dibawah ini
+* {% include youtubePlayer.html id=page.youtubeId %}
+* Pengumpulan laporan melalui form `https://google.com`
 
 ## Usage
 
@@ -15,6 +24,7 @@ For local usage just download [Jekyll](http://jekyllrb.com/), use installation g
 
 If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
 
+## Program Prioritas Kota Pasuruan 2021 - 2026
 ### Files
 
 * `_config.yml`            : Main configuration file.
