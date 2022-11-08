@@ -6,9 +6,7 @@ youtubeId: bC-3UnHHM24
 ![Banner](assets/biscuit.png)
 
 ## Dokumen perencanaan Perangkat Daerah
-* [Dokumen 1](https://form.gle)
-* [Dokumen 2](https://form.gle)
-* [Dokumen 3](https://form.gle)
+* [Berkas Monev]([https://form.gle](https://bit.ly/Berkas_MonevTBIII))
 
 ## Pelaporan Dokumen Perencanaan
 ### `Pelaporan Monev Trivulan III`
