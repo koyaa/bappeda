@@ -7,12 +7,12 @@ youtubeId: bC-3UnHHM24ex
 
 ## Pelaporan Dokumen Perencanaan
 ### `Pelaporan Monev Trivulan III`
-* Format laporan dapat diunduh melalui link berikut ini, `(https://bit.ly/Berkas_MonevTBIII)`
+* Format laporan dapat diunduh melalui link berikut ini, [Format Laporan](https://bit.ly/Berkas_MonevTBIII)
 
 * Tata cara pengisian dapat dilihat melalui videio dibawah ini
  {% include youtubePlayer.html id=page.youtubeId %}
  
-* Pengumpulan laporan melalui link berikut ini `(https://bit.ly/Pengumpulan_MonevTBIII)`
+* Pengumpulan laporan melalui link berikut ini, [Pengumpulan](https://bit.ly/Pengumpulan_MonevTBIII)
 
 ## Program Prioritas Kota Pasuruan 2021 - 2026
 ### `MAJU EKONOMINYA`
