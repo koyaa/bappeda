@@ -1,22 +1,18 @@
 ---
 layout: default
-youtubeId: bC-3UnHHM24
+youtubeId: bC-3UnHHM24ex
 ---
 
 ![Banner](assets/biscuit.png)
 
-## Dokumen perencanaan Perangkat Daerah
-* [Format Pelaporan Monev](https://bit.ly/Berkas_MonevTBIII)
-* [Pengumpulan Berkas Monev](https://bit.ly/Pengumpulan_MonevTBIII)
-
 ## Pelaporan Dokumen Perencanaan
 ### `Pelaporan Monev Trivulan III`
-* Format laporan dapat diunduh melalui link berikut ini, `https://google.com.`
+* Format laporan dapat diunduh melalui link berikut ini, `(https://bit.ly/Berkas_MonevTBIII)`
 
 * Tata cara pengisian dapat dilihat melalui videio dibawah ini
  {% include youtubePlayer.html id=page.youtubeId %}
  
-* Pengumpulan laporan melalui form `https://google.com`
+* Pengumpulan laporan melalui link berikut ini `(https://bit.ly/Pengumpulan_MonevTBIII)`
 
 ## Program Prioritas Kota Pasuruan 2021 - 2026
 ### `MAJU EKONOMINYA`
