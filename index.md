@@ -20,11 +20,11 @@ youtubeId: bC-3UnHHM24
 * Pengumpulan laporan melalui form `https://google.com`
 
 ## Program Prioritas Kota Pasuruan 2021 - 2026
-`MAJU EKONOMINYA`
+### `MAJU EKONOMINYA`
   * **Balapan** (Pembukaan Lapangan Pekerjaan)
   * **Motif** (Penguatan UMKM & Ekonomi Kreatif)
   * **Gembang Giri** (Pengembangan Wisata Terintegrasi)
   * **Tumpuan** (Bantuan Modal Usaha untuk Perempuan Kepala Keluarga)
-`INDAH KOTANYA`
+### `INDAH KOTANYA`
   * **Tutur Ramah** (Infrastruktur & Lingkungan Hidup yang Ramah & Nyaman)
-`HARMONI WARGANYA`
+### `HARMONI WARGANYA`
