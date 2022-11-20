@@ -17,7 +17,7 @@ youtubeId: pWN97Do8Zqs
 
 * Tata cara pengisian dapat dilihat melalui videio dibawah ini
 
-{%include youtubePlayer.html id="NdcjCR9_dNA"%}
+{% include youtubePlayer.html id=page.youtubeId %}
  
 * Pengumpulan laporan melalui link berikut ini, [Pengumpulan](https://bit.ly/Pengumpulan_MonevTBIII)
 
