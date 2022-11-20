@@ -1,6 +1,6 @@
 ---
 layout: default
-youtubeId: pWN97Do8Zqs
+youtubeId: I_rzQhoT6mA
 ---
 
 ![Banner](assets/biscuit.png)
@@ -16,7 +16,8 @@ youtubeId: pWN97Do8Zqs
 * Format laporan dapat diunduh melalui link berikut ini, [Format Laporan](https://bit.ly/Berkas_MonevTBIII)
 
 * Tata cara pengisian dapat dilihat melalui videio dibawah ini
- {% include youtubePlayer.html id=page.youtubeId %}
+
+{% include youtubePlayer.html id=page.youtubeId %}
  
 * Pengumpulan laporan melalui link berikut ini, [Pengumpulan](https://bit.ly/Pengumpulan_MonevTBIII)
 
