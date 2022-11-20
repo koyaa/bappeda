@@ -5,11 +5,11 @@ youtubeId: pWN97Do8Zqs
 
 ![Banner](assets/biscuit.png)
 ## Dokumen Perencanaan Perangkat Daerah
-[Laporan Satu](https://bit.ly/RenstraPD_Sosbudpem)
+[Laporan RPJMD](https://bit.ly/RenstraPD_Sosbudpem)
 
-[Laporan Dua](https://bit.ly/RPJMD_KoPas)
+[Laporan RENSTRA](https://bit.ly/RPJMD_KoPas)
 
-[Laporan Tiga](https://bit.ly/RenjaPD_Sosbud2023)
+[Laporan RENJA](https://bit.ly/RenjaPD_Sosbud2023)
 
 ## Pelaporan Dokumen Perencanaan
 ### `Pelaporan Monev Trivulan III`
@@ -17,7 +17,7 @@ youtubeId: pWN97Do8Zqs
 
 * Tata cara pengisian dapat dilihat melalui videio dibawah ini
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id="pWN97Do8Zqs" %}
  
 * Pengumpulan laporan melalui link berikut ini, [Pengumpulan](https://bit.ly/Pengumpulan_MonevTBIII)
 
